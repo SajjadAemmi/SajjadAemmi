@@ -1,6 +1,6 @@
 ```
-🧠 Master of AI @ Ferdowsi University of Mashhad
-👨🏻‍💻 Programmer | Teacher | Web Developer | Graphic Designer
-🤖 Currently working as Machine Learning Engineer @ ParsTechAI
+👨🏻‍💻 Programmer, Teacher, Graphic Designer
+🤖 Machine Learning Engineer at ParsTechAI
+🧠 Master of AI at Ferdowsi University of Mashhad
 🦾
 ```
