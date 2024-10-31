@@ -1,6 +1,5 @@
 ```
-👨🏻‍💻 Programmer, Teacher, Graphic Designer
-🤖 Machine Learning Engineer at ParsTechAI
+👨🏻‍💻 ML Engineer, AI Programmer, Web Developer, Teacher, Graphic Designer
 🧠 Master of AI at Ferdowsi University of Mashhad
 🦾
 ```
